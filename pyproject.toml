@@ -6,7 +6,7 @@ authors = ["gorjanradevski <gorjanradevski@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-numpy = "^1.19.2"
+numpy = "^1.22.0"
 jupyter = "^1.0.0"
 Pillow = "^7.2.0"
 opencv-python = "^4.4.0"
